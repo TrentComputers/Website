@@ -1,0 +1,310 @@
+<html>
+
+
+<!--
+
+Hello!
+
+Glad to see you're examining my code, I would expect nothing less.
+You'll see some (what I'd like to consider) tidy code, of course there
+will be flaws, I'm only human, but I hope what I have here pleases you!
+
+Thank you,
+Trent S.
+
+-->
+
+
+
+
+  <head>
+
+
+
+
+
+  	<title>Trent S.</title>
+  	<link rel="icon" href="https://imgs.search.brave.com/QqGpl6K0_Fwrs_hc9fvoboabBI1r7XCUn4j-k9vWLrw/rs:fit:1200:1200:1/g:ce/aHR0cDovL2NsaXBh/cnQtbGlicmFyeS5j/b20vaW1nMS8xNTY0/ODUwLnBuZw" type="image/gif" sizes="16x16">
+  	<meta charset="utf-8">
+
+
+  	<center>
+
+
+  	  <h1 style="font-size: 110; padding: 1;">Trent S</h1>
+
+
+  	  <hr style="background-color: #00ff00; padding: 1;">
+
+      <h1>Tech Repairman and Cyber Security Student</h1>
+
+  	  <hr style="background-color: #00ff00; padding: 1;">
+
+
+    </center>
+
+
+  </head>
+
+
+
+
+  <body>
+
+
+  	   <div id="snek" style="padding-right: 100px; padding-top: 80px">
+   	
+
+          <canvas id="0309Canvas" width="800" height="450" style="border:5px 
+          dashed #00ff00; float: right;">Your browser doesn't support canvas. 
+          Hella cringe, bro.</canvas>
+
+
+       </div>
+
+
+  	<div id="WhoAmI" style="padding-left: 100;">
+
+
+  	<h1 style="font-size: 40;">About Me</h1>
+
+  	<h4 style="text-align: left;">
+
+  	Hello! My name is Trent, I'm 17 from Lorain County, Ohio and 
+  	I am a Tech Repairman and a Cyber-Security Student. I have 
+  	expansive knowledge of Python, JavaScript, and VBS as well 
+  	as CAD Software. I love all things IT and build and resell 
+  	PC's on the side. My main goal is to aid in cyber security 
+  	for those who are most vulnerable such as small businesses, 
+  	schools, etc.
+
+    </h4>
+
+
+   </div>
+
+   <br />
+   <br />
+
+   <div id="Experience" style="padding-left: 100;">
+   	
+      <h1 style="font-size: 40;">Experience</h1>
+
+      <h4 style="text-align: left;">
+      	
+         My experience with technology began fairly early on, seeing as to
+         my fathers career as a support specialist. At age 7 my father had
+         taught me how Random Access Memory worked and ever since I've been
+         in love. In 7th grade I took a python class my middle school was
+         offering and from there I just kept learning more and more. 
+
+      </h4>
+
+   </div>
+
+      <br />
+      <br />
+      <br />
+      <br />
+
+
+
+   <div id="Work">
+
+
+      <h1 style="font-size: 40; text-align: center;">Previous Jobs</h1>
+
+      <h4 style="text-align: center; padding-right: 300px; padding-left: 300px;">
+      	
+      	My prior IT work experience consists of several personal projects but also
+      	some professional experience such as my work with NRCS. For NRCS I worked
+      	as a Tech Dept. Aide, essentially meaning my job was to help around and my 
+      	primary function was to just learn how the IT field works. I was tasked 
+      	with imaging laptops, sorting through upwards of 1500 chromebooks and setting 
+      	up desktops in various places throughout the schools in the district.
+
+      </h4>
+   	
+     
+
+   </div>
+
+   <br />
+
+   <div id="quals">
+   	
+    <h1 style="font-size: 40; text-align: center;">Qualifications</h1>
+
+    <h4 style="text-align: center; padding-right: 300px; padding-left: 300px;">
+      	
+      	My qualifications consist of profeciency in the following: Python, VBS, JS, Web Development, 
+      	Pentesting, PC Building, CAD Software, Tech Repairs, and Basic Circuitry. Currently I have an 
+      	OSHA 10 certification and am working on CompTIA A+ and HackTheBox Bug Bounty.
+
+    </h4>
+   	
+
+   </div>
+
+
+   <br />
+   <br />
+
+
+<center>
+<hr style="background-color: #00ff00; padding: 1;">
+<h1>Miscellaneous Shenanigans</h1>
+<hr style="background-color: #00ff00; padding: 1;">
+</center>
+
+
+   <div id="Friends">
+   	
+
+    
+    <h1 style="font-size: 40; text-align: center;">Friends</h1>
+
+    <h4 style="text-align: center; padding-right: 300px; padding-left: 300px;">
+    	
+     Special thanks to Kigipux#0001, Dr.Robot#0420, Krayt#7050, dash#2166, ngardner11#1677, OakyDokie#0896, Lord Smitty Johnson of Scotland#5748, Nyx<3#1609, Ash🦹#0738 and Picksquid#6297 for their support. In the category of friends, you're as good as it gets.
+
+    </h4>
+
+
+
+
+   </div>
+
+   <div id="charities">
+   	
+     <h1 style="font-size: 40; text-align: center;">Charities</h1>
+
+     <center>
+     	<dl>
+     		<dt><a href="https://give.rainn.org/a/donate">RAINN</a></dt>
+     		  <dd>- An organization that helps survivors of sexual abuse.</dd>
+     		  <br />
+     		<dt><a href="https://www.israelgives.org/en/pay/">Israel Gives</a></dt>
+     		  <dd>- An organization to help struggling Israeli's.</dd>
+     		  <br />
+     		<dt><a href="https://www.stjude.org/donate">St. Jude</a></dt>
+     		  <dd>- A non-profit organization to research and treat childhood cancer.</dd>
+     		  <br />
+     		<dt><a href="https://www.lionsclubs.org/en/donate">Lions Club</a></dt>
+     		  <dd>- An organization dedicated to making large differences in small communities.</dd>
+     	</dl>
+     </center>
+
+   </div>
+
+   <br />
+   <br />
+
+   <footer style="color: #00ff00;  position: sticky; border: dashed;">
+   	
+       <h4 style="text-align: center;">Copyright Trent S. All rights reserved</h4>
+
+   </footer>
+
+  </body>
+
+
+
+
+
+
+
+
+  <style>
+	*{
+		background-color: #000000;
+		box-sizing: border-box;
+		font-family: "Courier New";
+		font-weight: 1;
+		color: #00ff00;
+	}
+	body{
+		background-color: #000000;
+	}
+	#WhoAmI{
+		position: relative;
+		width: 777px;
+		word-wrap: break-word;
+	}
+	#Experience{
+		position: relative;
+		width: 777px;
+		word-wrap: break-word;
+	}
+	#Work{
+		position: relative;
+		word-wrap: break-word;
+	}
+	footer{
+		position: sticky;
+		word-wrap: break-word;
+	}
+  </style>
+
+
+
+
+
+
+<!--
+
+Oh boy, this is where the fun begins...
+
+-->
+
+  <script>
+  	
+    let details = navigator.userAgent;
+    let regexp = /android|iphone|kindle|ipad/i;
+    let isMobileDevice = regexp.test(details);
+    if (isMobileDevice) {
+        window.location.replace("https://docs.google.com/document/d/1JSFZVRk3PM9TtdXxhGy6T2FUiIPa1TVg9huDTo276x8");
+    } else {
+        //pass
+    }
+
+
+
+
+
+
+ var dom=document.getElementById("0309Canvas");
+ var ctx=dom.getContext("2d");
+ var x1=setInterval(handler,1);
+ var x=10;
+ var y=10;
+ function handler()
+{
+  ctx.clearRect(0,0,800,450);
+  ctx.beginPath();
+
+  //x=x*Math.random();
+  x=x+1;
+  ctx.rect(x,y,10,50);
+  ctx.closePath();
+  ctx.fillStyle="#00ff00";
+  ctx.fill();
+  ctx.stroke();
+
+  if(x>740)
+ {
+  x=10;
+  y=y+50;
+ }
+ if(y>400)
+ {
+ 	x=10;
+ 	y=10
+ }
+}
+</script>
+
+
+
+
+</html>
